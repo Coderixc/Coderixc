@@ -7,7 +7,6 @@
 Coderixc/Coderixc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 Hi 👋 My name is Kamal Kumar Chanchal
 =====================================
 
@@ -18,8 +17,7 @@ I have been a Software Developer for over 47 month(s) and currently working in a
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [kchanchal78@gmail.com](mailto:kchanchal78@gmail.com)
-*   🧠  I'm learning Financial Algorithm<a href="https://www.github.com/Coderixc" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/github/followers/Coderixc?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>### Skills<p align="left">
+*   🧠  I'm learning Financial Algorithm### Skills<p align="left">
                                 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
                                 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
