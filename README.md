@@ -4,7 +4,7 @@ Hi 👋 My name is Kamal Kumar Chanchal
 Software Developer
 ------------------
 
-I have been a Software Developer for over 47 month(s) and currently working in a financial organization. I am skilled in C#, .NET and MYSQL . I have worked with both Window Based Application , multi-threaded applications using the .NET technologies. In the past, I have worked on projects building a Application to support Trading Platform.
+I had been a Software Developer for over 48 month(s) ,working in a financial organization. I am skilled in C#, .NET and MYSQL . I have worked with both Window Based Application , multi-threaded applications using the .NET technologies. In the past, I have worked on projects building a Application to support Trading Platform.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kchanchal78@gmail.com](mailto:kchanchal78@gmail.com)
