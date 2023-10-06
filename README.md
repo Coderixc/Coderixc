@@ -4,7 +4,8 @@ Hi 👋 My name is Kamal Kumar Chanchal
 Software Developer
 ------------------
 
-I had been a Software Developer for over 48 month(s) ,working in a financial organization. I am skilled in C#, .NET and MYSQL . I have worked with both Window Based Application , multi-threaded applications using the .NET technologies. In the past, I have worked on projects building a Application to support Trading Platform.
+Experienced professional with a proven track record in building software for quantitative finance and algorithmic trading. I have four years of hands-on experience in building in house software for executing trades with low latency and accuracy using cutting-edge technologies like C#, .NET, Python, MySQL, and Boost Python. My expertise has been utilized by multiple global funds, where I've contributed to the success of their trading strategies. Passionate about exploring and implementing advanced quant algorithms in various dimensions of financial markets. I thrive on solving complex problems with technology-driven solutions.
+if you share an interest in quantitative finance, algo trading, and leveraging technology to gain a competitive edge, let's connect and exchange insights.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kchanchal78@gmail.com](mailto:kchanchal78@gmail.com)
