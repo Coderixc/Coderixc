@@ -4,8 +4,12 @@ Hi 👋 My name is Kamal Kumar Chanchal
 Software Developer
 ------------------
 
-I have four years of hands-on experience in building in house software for executing trades with low latency and accuracy using cutting-edge technologies like C#, .NET, Python, MySQL, and Boost Python. 
-if you share an interest in quantitative finance, algo trading, and leveraging technology to gain a competitive edge, let's connect .
+I worked as a Senior Software Developer, focusing on designing, developing, testing, and deploying software solutions for 𝐚𝐮𝐭𝐨𝐦𝐚𝐭𝐞𝐝 𝐭𝐫𝐚𝐝𝐢𝐧𝐠 𝐬𝐲𝐬𝐭𝐞𝐦𝐬 at 𝒑𝒓𝒐𝒑 𝒕𝒓𝒂𝒅𝒊𝒏𝒈 𝒇𝒊𝒓𝒎𝒔 and 𝒇𝒖𝒏𝒅 𝒉𝒐𝒖𝒔𝒆𝒔 [𝐄𝐧𝐨𝐫𝐚 𝐆𝐥𝐨𝐚𝐛𝐚𝐥 𝐅𝐮𝐧𝐝 ( https://www.enoraglobal.com) ,etc] . My work covered multiple segments, including Index, Options, Futures, Cash, and Currency (USDINR).
+
+I have a strong understanding of 𝒇𝒊𝒏𝒂𝒏𝒄𝒊𝒂𝒍 𝒎𝒂𝒓𝒌𝒆𝒕𝒔, 𝒒𝒖𝒂𝒏𝒕𝒊𝒕𝒂𝒕𝒊𝒗𝒆 𝒎𝒆𝒕𝒉𝒐𝒅𝒔, and 𝒔𝒚𝒔𝒕𝒆𝒎𝒂𝒕𝒊𝒄 𝒕𝒓𝒂𝒅𝒊𝒏𝒈. My expertise lies in 𝐥𝐨𝐰-𝐥𝐚𝐭𝐞𝐧𝐜𝐲 𝐜𝐨𝐝𝐢𝐧𝐠, primarily using 𝐂#. I also have experience with 𝐏𝐲𝐭𝐡𝐨𝐧, 𝐖𝐢𝐧𝐝𝐨𝐰𝐬 𝐃𝐞𝐬𝐤𝐭𝐨𝐩 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬, .𝐍𝐄𝐓 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤, 𝐚𝐧𝐝 𝐌𝐲𝐒𝐐𝐋.
+
+
+I prioritize delivering custom software solutions for 𝐐𝐮𝐚𝐧𝐭𝐢𝐭𝐚𝐭𝐢𝐯𝐞 𝐀𝐧𝐚𝐥𝐲𝐬𝐭𝐬, 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡𝐞𝐫𝐬, 𝐚𝐧𝐝 𝐓𝐫𝐚𝐝𝐞𝐫𝐬,  ensuring efficient and reliable performance. My software executes a high number of trades, monitors 𝐭𝐫𝐚𝐝𝐢𝐧𝐠 𝐬𝐭𝐫𝐚𝐭𝐞𝐠𝐲 𝐩𝐞𝐫𝐟𝐨𝐫𝐦𝐚𝐧𝐜𝐞 in real-time, and maintains 𝐥𝐚𝐫𝐠𝐞 𝐝𝐚𝐭𝐚𝐬𝐞𝐭𝐬 for executed trades.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [kchanchal78@gmail.com](mailto:kchanchal78@gmail.com)
