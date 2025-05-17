@@ -1,4 +1,4 @@
-Hi 👋 My name is Kamal Kumar Chanchal
+Hi 👋 
 =====================================
 
 Software Developer
